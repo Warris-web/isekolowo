@@ -1,35 +1,36 @@
-{
-  "categories": [
-    {
-      "id": "wisdom",
-      "name": "Wisdom",
-      "proverbs": [
-        {
-          "id": "p1",
-          "yoruba": "Bi omode ba subu a wo iwaju",
-          "meaning": "When a child falls he looks ahead (lesson in foresight).",
-          "literal": "Child falling looks ahead",
-          "context": "Used to teach foresight and planning"
-        },
-        {
-          "id": "p2",
-          "yoruba": "Oro buruku to dun lori",
-          "meaning": "A bitter truth is still sweet on the tongue",
-          "literal": "Bitter word tastes sweet",
-          "context": "Used to stress honesty"
-        }
-      ]
-    },
-    {
-      "id": "family",
-      "name": "Family",
-      "proverbs": [
-        {
-          "id": "p3",
-          "yoruba": "Ile ni a ti n ko eso re ode",
-          "meaning": "Charity begins at home"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Wisdom",
+    "proverbs": [
+      {
+        "id": "1",
+        "yoruba": "Bi omode ba subu, a wo iwaju",
+        "meaning": "When a child falls, he looks ahead",
+        "literal": "When a child falls, he looks forward",
+        "context": "Used to encourage forward-looking after mistakes.",
+        "audio": "https://raw.githubusercontent.com/yourusername/yourrepo/main/audio/1.mp3"
+      },
+      {
+        "id": "2",
+        "yoruba": "Agba ki wa loja, ki ori omo tuntun wo",
+        "meaning": "An elder cannot be in the market and a child’s head bends wrongly",
+        "literal": "An elder cannot be in the market and a child’s head bends wrongly",
+        "context": "Shows elders’ responsibility over the young.",
+        "audio": "https://raw.githubusercontent.com/yourusername/yourrepo/main/audio/2.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Unity",
+    "proverbs": [
+      {
+        "id": "3",
+        "yoruba": "Omi ni o wà lórí omi",
+        "meaning": "Water sits on top of water",
+        "literal": "Water rests on water",
+        "context": "Used when similar things group together.",
+        "audio": "https://raw.githubusercontent.com/yourusername/yourrepo/main/audio/3.mp3"
+      }
+    ]
+  }
+]
