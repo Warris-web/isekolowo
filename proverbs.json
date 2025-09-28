@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "id": "wisdom",
+      "name": "Wisdom",
+      "proverbs": [
+        {
+          "id": "p1",
+          "yoruba": "Bi omode ba subu a wo iwaju",
+          "meaning": "When a child falls he looks ahead (lesson in foresight).",
+          "literal": "Child falling looks ahead",
+          "context": "Used to teach foresight and planning"
+        },
+        {
+          "id": "p2",
+          "yoruba": "Oro buruku to dun lori",
+          "meaning": "A bitter truth is still sweet on the tongue",
+          "literal": "Bitter word tastes sweet",
+          "context": "Used to stress honesty"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "proverbs": [
+        {
+          "id": "p3",
+          "yoruba": "Ile ni a ti n ko eso re ode",
+          "meaning": "Charity begins at home"
+        }
+      ]
+    }
+  ]
+}
