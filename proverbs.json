@@ -32,5 +32,18 @@
         "audio": "https://raw.githubusercontent.com/yourusername/yourrepo/main/audio/3.mp3"
       }
     ]
-  }
+  },
+  {
+    "name": "Awesome",
+    "proverbs": [
+      {
+        "id": "4",
+        "yoruba": "Omi ni o wà lórí omi",
+        "meaning": "Water sits on top of water",
+        "literal": "Water rests on water",
+        "context": "Used when similar things group together.",
+        "audio": "https://raw.githubusercontent.com/yourusername/yourrepo/main/audio/3.mp3"
+      }
+    ]
+  },
 ]
